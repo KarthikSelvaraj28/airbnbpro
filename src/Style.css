@@ -1,0 +1,147 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+        font-family: 'Poppins', sans-serif;
+
+}
+
+nav {
+    height: 100px;
+    display: flex;
+    padding: 20px 36px;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+
+}
+
+section {
+    
+    text-align: center;
+    padding: 20px;
+}
+
+.logo{
+max-width: 200px;
+}
+
+.image1{
+
+    max-width:1000px;
+    
+    
+    
+
+    
+    
+}
+.heros-title {
+    font-size: 2.5em;
+    color: #333;
+    margin:30px;
+    
+    text-align: left;
+    
+}
+
+.heros-description {
+    
+    color: #666;
+    margin-top: 10px;
+    text-align: left;
+
+
+}
+
+
+.card{
+    padding: 5px;
+
+    float: left;
+    width: 175px;
+    font-size: 12px;
+    position: relative;
+}
+
+.cardimage{
+    padding: 5px;
+
+    width: 100%;
+    padding: -100px;
+    border-radius: 9px;
+}
+
+.cardstats{
+
+display: flex;
+align-items: center;
+
+
+
+}
+.star{
+    
+     height: 14px;
+  
+}
+
+.colorfor6{
+    color: grey;
+}
+.colorforcountry{
+    color:grey
+}
+
+.card2{
+    float: left;
+    width: 175px;
+    padding: 5px;
+
+    font-size: 12px;
+}
+
+.cardimage2{
+    width: 100%;
+    padding: 5px;
+    border-radius: 9px;
+}
+
+.cardstats2{
+
+    display: flex;
+    align-items: center;
+}
+
+.card3{
+    float: left;
+    width: 175px;
+    padding: 5px;
+
+    font-size: 12px;
+}
+
+.cardimage3{
+    width: 100%;
+    padding: 5px;
+
+    border-radius: 9px;
+    max-width:100%;
+    height:auto;
+}
+
+.cardstats3{
+
+    display: flex;
+    align-items: center;
+}
+
+.cardbadge{
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    background-color: burlywood;
+    padding: 3px 8px;
+    border-radius: 2px;
+    font-weight: bold;
+}
