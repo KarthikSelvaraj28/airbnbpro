@@ -8,7 +8,7 @@ export default function Heros(){
 
         <h1 className="heros-title">Online Experiences</h1>
             <p className="heros-description">
-                Join the main and unique interactive activities led by one-of-a-kind hosts—all without<br></br> leaving home.
+                Join the main unique interactive activities led by one-of-a-kind hosts—all without<br></br> leaving home.
             </p>
 
 
